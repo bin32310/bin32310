@@ -1,4 +1,3 @@
-### YUN SEON BIN GitHub👋
 
 <!--
 **bin32310/bin32310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +13,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bin32310)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- 헤더 -->
+![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&color=auto9&section=header&text=Wellcome%20to%20BIN's%20GitHub🙋&fontSize=60)
 
-<div align=center><h1>📚Tech Stacks</h1></div>
+<div align=center>
+  <h1>💻 Web Developer 💻</h1>
+  <h3>무럭무럭 자라고있는 개발 꿈나무 새싹 🌱 <br>
+  수영을 좋아하고 가끔 프리다이빙과 서핑을 합니다. 🏄 <br>
+  펌웨어 개발을 하다가, 현재는 웹 개발자를 준비중입니다. 🐥 </h3>
+  <br>
+  
+  <!-- 깃허브 상태 / 자주쓰는 언어 -->
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bin32310&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bin32310&layout=compact)](https://github.com/bin32310/github-readme-stats)
+</div>
+<!-- 기술스택 -->
+<br>
+<div align=center><h1>📚 Tech Stacks</h1></div>
 
 <div align=center> 
   <h3> programming Language </h3>
 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
@@ -48,3 +63,9 @@ Here are some ideas to get you started:
 
   <br>
 </div>
+
+<!--
+  <div align=center><h1>📚SNS</h1></div>
+
+-->
+
