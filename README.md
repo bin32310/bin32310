@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 <!-- 기술스택 -->
 <br>
-<div align=center><h1>📚 Tech Stacks</h1></div>
+<div align=center><h1>📚 Tech Stacks 📚</h1></div>
 
 <div align=center> 
   <h3> programming Language </h3>
