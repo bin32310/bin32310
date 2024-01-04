@@ -32,6 +32,16 @@ Here are some ideas to get you started:
 </div>
 <!-- 기술스택 -->
 <br>
+
+  <!-- Comtect -->
+  <div align=center><h1>📧 Contect 📧</h1></div>
+  <div align=center> 
+    <a href="mailto:tjsqls0303@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+  </div>
+  <br>
+
 <div align=center><h1>📚 Tech Stacks 📚</h1></div>
 
 <div align=center> 
@@ -75,11 +85,7 @@ Here are some ideas to get you started:
   <br>
 
   
-  <!-- Comtect -->
-  <h2>📧 Contect 📧</h2>
-  <a href="mailto:tjsqls0303@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+
 
   
 </div>
