@@ -40,7 +40,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://sseb32310.tistory.com/">
-     <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
+     <img src="https://img.shields.io/badge/Tistory Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
     </a>
     </div>
   <br>
