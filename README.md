@@ -39,9 +39,11 @@ Here are some ideas to get you started:
     <a href="mailto:tjsqls0303@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
+    <!--
     <a href="https://sseb32310.tistory.com/">
      <img src="https://img.shields.io/badge/Tistory Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
     </a>
+     -->
     </div>
   <br>
 
