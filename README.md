@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&color=auto9&section=header&text=Nice%20to%20meet%20you🙋&fontSize=60)
 
 <div align=center>
